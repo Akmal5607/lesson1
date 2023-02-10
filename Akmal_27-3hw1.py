@@ -17,8 +17,32 @@ class SuperHero:
         return f'{self.nickname}, {self.superpower}, {self.health_points}'
 
 
-superhero = SuperHero('Шар', 'Шарик', 'сидеть на цепи', 100000, 'эх шарик, я как и ты был на цепи')
+superhero = SuperHero()
 print(superhero)
 print(superhero.get_name())
 print(superhero.get_health_points())
 print(superhero.__len__())
+
+
+class Other(SuperHero):
+    superh = superhero
+    superh = 'Bedmen'
+def  __init__(self)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
