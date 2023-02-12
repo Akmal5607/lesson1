@@ -18,3 +18,57 @@ class Cat:
     def x2(self):
         self.age *= 9
         print(self)
+
+class Dog:
+    глаза = True
+
+    def str(self):
+        return f'name is {self.name}\n' \
+               f'age is {self.age}'
+
+    def len(self):
+        return len(self.name)
+    def
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
